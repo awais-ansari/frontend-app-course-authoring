@@ -14,7 +14,7 @@ function DivisionByGroupFields({
 }) {
   return (
     <>
-      <h5 className="text-gray-500">{intl.formatMessage(messages.divisionByGroup)}</h5>
+      <h5 className="text-gray-500 mt-4">{intl.formatMessage(messages.divisionByGroup)}</h5>
 
       <FormSwitchGroup
         onChange={onChange}

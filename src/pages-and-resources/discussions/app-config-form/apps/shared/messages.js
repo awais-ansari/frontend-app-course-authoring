@@ -24,11 +24,11 @@ const messages = defineMessages({
   },
   divideCourseWideTopicsLabel: {
     id: 'authoring.discussions.builtIn.divideCourseWideTopics.label',
-    defaultMessage: 'Divide course wide discussion topics',
+    defaultMessage: 'Divide course-wide discussion topics',
   },
   divideCourseWideTopicsHelp: {
     id: 'authoring.discussions.builtIn.divideCourseWideTopics.help',
-    defaultMessage: 'Choose which of your general course wide discussion topics you would like to divide.',
+    defaultMessage: 'Choose which of your general course-wide discussion topics you would like to divide.',
   },
 
   // In-context discussion fields
